@@ -1,8 +1,12 @@
+//header files
 #include<iostream.h>
 using namespace std;
+
+//main function
 int main(){
 
-cout<<"hello";
+//Print statement
+cout<<"hello world";
 
 return 0;
 }
